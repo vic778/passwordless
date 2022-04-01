@@ -2,7 +2,7 @@
 
 > As part of improving my skills in Rails 7 and Pg, I made this small application for authentification. the user can just put his name and his email and automatically it will be generated a unique URL that will be sent to his email. the password is a hash that will be generated automatically by passwordless
 
-![Demo](https://github.com/vic778/e-coomerce/blob/master/screen/demo.gif)
+![Demo](https://github.com/vic778/passwordless/blob/master/screenshot/demo.gif)
 
 This API is made of three models:
 - User model
